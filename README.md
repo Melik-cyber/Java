@@ -1,9 +1,7 @@
- [                                 
+
  [Code: Melik Erdem Koç
  [Discord:Melik Erdem Koç#0538
  [Linkedin:https://www.linkedin.com/in/melik-erdem-ko%C3%A7-5253061a1/
- [:D
- ----------------------------------
  
  
  package com.melikerdemkocmymessage.java;
